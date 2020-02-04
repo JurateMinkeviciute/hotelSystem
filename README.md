@@ -2,6 +2,6 @@
 Windows form application in c#
 
 
-Visual Studio Community 2017
-SQL
+Visual Studio Community 2017,
+SQL,
 C#
